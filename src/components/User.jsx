@@ -6,5 +6,4 @@ const User = ({ name, handle }) => {
     </span>
   );
 };
-
 export default User;
